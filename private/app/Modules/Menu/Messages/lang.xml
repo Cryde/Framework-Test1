@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<trans id="1" lang="fr">Accueil</trans>
+	<trans id="1" lang="en">Home</trans>
+	<trans id="2" lang="fr">Inscription</trans>
+	<trans id="2" lang="en">Sign in</trans>
+	<trans id="3" lang="fr">Connexion</trans>
+	<trans id="3" lang="en">Login</trans>
+	<trans id="4" lang="fr">Deconnexion</trans>
+	<trans id="4" lang="en">Deconnection</trans>
+</translation>
